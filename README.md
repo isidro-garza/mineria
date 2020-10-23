@@ -11,3 +11,6 @@
 [presentacion prediccion](https://github.com/lauraestefany/Mineria-de-datos/blob/master/Presentaci%C3%B3n_Predicci%C3%B3n_5.pdf)
 
 [Analisis](https://github.com/isidro-garza/mineria/blob/master/AnalisisBD_1818012.pdf)
+
+[ejercicios basicos](http://localhost:8888/notebooks/ejercicios%20.ipynb)
+
