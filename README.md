@@ -16,6 +16,6 @@
 
 [avance 1 PIA](https://github.com/Jose-BuendiaM00/Mineria-de-Datos/blob/master/Avance1-PIA_5_004.pdf)
 
-[ejercicos python](https://github.com/Jose-BuendiaM00/Mineria-de-Datos/blob/master/Ejercicios%20Python%20Mineria%20de%20datos-checkpoint-grupo003%2Cequipo5.ipynb)
+[ejercicos](https://github.com/Jose-BuendiaM00/Mineria-de-Datos/blob/master/Ejercicios%20Python%20Mineria%20de%20datos-checkpoint-grupo003%2Cequipo5.ipynb)
 
 [avance 2 PIA](https://github.com/Jose-BuendiaM00/Mineria-de-Datos/blob/master/AvancePIA_II_003_05.ipynb)
