@@ -15,3 +15,5 @@
 [ejercicios basicos](http://localhost:8888/notebooks/ejercicios%20.ipynb)
 
 [avance 1 PIA](https://github.com/Jose-BuendiaM00/Mineria-de-Datos/blob/master/Avance1-PIA_5_004.pdf)
+
+[avance 2 PIA](https://github.com/Jose-BuendiaM00/Mineria-de-Datos/blob/master/AvancePIA_II_003_05.ipynb)
