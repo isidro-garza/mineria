@@ -19,3 +19,5 @@
 [ejercicos](https://github.com/Jose-BuendiaM00/Mineria-de-Datos/blob/master/Ejercicios%20Python%20Mineria%20de%20datos-checkpoint-grupo003%2Cequipo5.ipynb)
 
 [avance 2 PIA](https://github.com/Jose-BuendiaM00/Mineria-de-Datos/blob/master/AvancePIA_II_003_05.ipynb)
+
+[poster](https://github.com/Jose-BuendiaM00/Mineria-de-Datos/blob/master/Poster%20Terrorismo%20en%20M%C3%A9xico.pdf)
